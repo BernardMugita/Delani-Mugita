@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1.1em;
+}
+
+.jumbotron {
+  background: url("../assets/welcome-to-delani-studios.jpg") no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+.jumbotron h1 {
+  margin: 0 auto;
+  width: 80%;
+}
+
+h1{
+  font-weight: 300;
+}
+
+.container {
+  width: 100%;
+}
+
+section {
+  height: 50vh;
+}
+
+.jumbotron, #services, #contact {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+#services {
+  background: url("../assets/services.jpg") no-repeat;
+}
+
+#contact {    
+  background: url("../assets/contact-us.jpg") no-repeat;
+}
+
+input, textarea {
+  background-color: rgba(0,0,0,0.0);
+}
+
+.translucent{
+  background-color: rgba(0,0,0,0.5);   
+}
+#btns{
+  border: 1px solid greenyellow;
+  border-radius: 20px;
+}

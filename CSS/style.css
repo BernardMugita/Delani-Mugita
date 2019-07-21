@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    text-align: center;
+ }
+ #sec-1 {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    height: 97vh;
+    font-family: 'Gugi', cursive;
+    margin-bottom: 0;
+ }
+ .tm-container {
+    max-width: 70vw;
+    margin: 0 auto;
+ }
+ footer{
+    text-align: center;
+    margin-top: 5%;
+ }
+
+ .container {
+   position: relative;
+ }
+
+ .middle {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   text-align: center;
+   background: white;
+   opacity: 0.55;
+font-weight: bolder;
+ }
+
+ .came{
+    text-align: center;
+    padding-top: 10%;
+ }
+
+ .top{
+    padding-bottom: 10%;
+ } */
+
+ .card{
+ width: 33.33%;
+ }
+ body{
+   overflow-x: hidden;
+ }
+#sec-5{
+  background-image: url(../pictures/c_image.jpg);
+  height: 80vh;
+  margin-top: 10%;
+  background-repeat: no-repeat;
+}
+.col-md-12 {
+   margin: 10px 0;
+   padding: 10%
+   font-size  calc(1vw + 1vh + .5vmin);
+}
+
+#del {
+   padding-top: 20px;
+}
+.col-md-12 h1,#sec-3 h1 {
+ font-size: calc(3vw + 3vh + .5vmin);
+}
+
+#sec-3 {
+   font-size: calc(1vw + 1vh + .5vmin);
+   background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
+   color: white;
+     margin-top: 5%;
+}
+.show1,.show2,.show0{
+   display: none;
+}
+#sec-4 {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-top: 5%;
+}
+
+form{
+  opacity: 0.55;
+}
+.meso{
+  text-align: center;
+  width: 100%;
+}

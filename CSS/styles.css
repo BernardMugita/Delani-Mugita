@@ -9,6 +9,8 @@ body{
     height: auto;
     
 }
+
+
 #header{
 
     width: 100%;
@@ -34,6 +36,12 @@ body{
     width: 100;
     margin: 0;
 }
+#cont{
+    background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+    height: 80vh;
+    margin-top: 10%;
+    background-repeat: no-repeat;
+}
 
 #image{
     float: left;
@@ -50,8 +58,9 @@ body{
 .row h1{
     text-align: center;
 
+
 }
-#h1{
+body h1{
     font-size: 1cm;
 }
 
