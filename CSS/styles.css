@@ -31,13 +31,13 @@ body{
 }
 
 #services{
-    background-image: url(/IP3/assets/backgrounds/s_image.jpg);
+    background-image: url(/Resources/backgrounds/s_image.jpg);
     text-align: center;
-    width: 100;
-    margin: 0;
+    margin-top: 10%;
+    background-repeat: no-repeat;
 }
 #cont{
-    background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+    background-image: url(/Resources/backgrounds/c_image.jpg);
     height: 80vh;
     margin-top: 10%;
     background-repeat: no-repeat;
