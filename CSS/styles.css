@@ -18,6 +18,7 @@ body{
     color: #fff;
     height: 97vh;
     margin-bottom: 0;
+    text-align: center;
 }
 
 
@@ -58,6 +59,12 @@ body{
     margin-top: 5%;
     
 }
+#good{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 #cont{
     background-image: url(../Resources/backgrounds/c_image.jpg);
     height: 80vh;
@@ -90,10 +97,13 @@ body h1{
     align-items: center;
 }
 
-}
 .show1,.show2,.show0{
    display: none;
 }
 form{
     opacity: 0.55;
+}
+
+.hide0, .hide1, .hide2{
+    align-items: center;
 }
