@@ -1,10 +1,10 @@
-##Bernard Mugita Portfolio
+## Bernard Mugita Portfolio
 This is a Read me to my Delani studio project at https://bernardmugita.github.io/Delani-Mugita/.
 
-##Contributors
+## Contributors
 Bernard Mugita
 
-##Description
+## Description
 This is a responsive website on the recreation of Delani studios website.
 The project uses HTML, CSS for styling and Javascript and JQuery to make 
 it more responsive. 
@@ -13,16 +13,16 @@ it more responsive.
 
 Friday, 19th July, 2019.
 
-##Support and Contact details
+## Support and Contact details
 email: mugita68@gmail.com 
 email: mugitabernard@yahoo.com
 
-##Bugs
+## Bugs
 Mailchimp Api meant to collect the messages and details did not 
 respond to my project. 
 
 
-##Licensing & Copyright
+## Licensing & Copyright
 
 MIT License
 
